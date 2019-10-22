@@ -1,2 +1,0 @@
-# ReactSagaSimple
-Created with CodeSandbox
